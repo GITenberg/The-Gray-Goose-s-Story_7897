@@ -1,0 +1,22 @@
+_repo: The-Gray-Goose-s-Story_7897
+creator:
+  author:
+    agent_name: Prentice, Amy
+    gutenberg_agent_id: '2574'
+    url: http://www.gutenberg.org/2009/agents/2574
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Geese -- Juvenile fiction'
+- !lcsh 'Storytelling -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Gray Goose's Story
+url: http://www.gutenberg.org/ebooks/7897
