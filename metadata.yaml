@@ -1,10 +1,16 @@
 _repo: The-Gray-Goose-s-Story_7897
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Prentice, Amy
     gutenberg_agent_id: '2574'
     url: http://www.gutenberg.org/2009/agents/2574
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7897#The-Gray-Goose-s-Story
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
